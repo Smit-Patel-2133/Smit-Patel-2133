@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **js,c++,Paython,java**
 
-- 👯 I’m looking to collaborate on **Web devloper**
+- 👯 I’m looking to collaborate on **Web devloper** **Machine Learning**
 
 - 🤝 I’m looking for help with **best teachers**
 
