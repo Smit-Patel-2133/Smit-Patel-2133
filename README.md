@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C++,java**
 
-- 📫 How to reach me **smit02042004@gmail.com**
+- 📫 How to reach me **smitnpatel013@gmail.com**
 
 - ⚡ Fun fact **i am stupid**
 
